@@ -1,0 +1,27 @@
+.container{
+    max-width: auto;
+    visibility: auto;
+    box-sizing: border-box;
+
+
+
+}
+
+body{
+    background-color: aquamarine;
+    color:bright black;
+    text-align: start;
+
+
+}
+ 
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    
+}
+
